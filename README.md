@@ -1,10 +1,8 @@
 <h3 align="center">WelCome👋</h3>
 <h3 align="center">Donghyeon`s Github</h3>
 
-<p align = "center">
-<p><img  src="https://github-readme-stats.vercel.app/api?username=donghyeon0915&show_icons=true&locale=en" alt="donghyeon0915" /></p>
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=donghyeon0915&show_icons=true&locale=en&layout=compact" alt="donghyeon0915" /></p>
-</p>
+<p align = "left"><img align = "center" src="https://github-readme-stats.vercel.app/api?username=donghyeon0915&show_icons=true&locale=en" alt="donghyeon0915" />
+  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=donghyeon0915&show_icons=true&locale=en&layout=compact" alt="donghyeon0915" /></p>
 
 <br>
 
