@@ -29,7 +29,3 @@
  </p>
  
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=donghyeon0915&show_icons=true&locale=en&layout=compact" alt="donghyeon0915" /></p>
-
-
-
-![Donghyeon's github stats](https://github-readme-stats.vercel.app/api?username=donghyeon0915&show_icons=true&theme=merko)
