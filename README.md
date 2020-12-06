@@ -1,4 +1,4 @@
-<h3 align="center">WelCome👋</h3>
+<h1 align="center">WelCome👋</h3>
 <h3 align="center">Donghyeon`s Github</h3>
 <br><br><br>
 
@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donghyeon0915&show_icons=true&locale=en&layout=compact" alt="donghyeon0915" />
 </p>
 
-<br><br><br>
+<br>
 
 <p align="center"> 
 <a href="https://www.arduino.cc/" target="_blank">
