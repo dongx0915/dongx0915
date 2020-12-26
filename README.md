@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=WelCome👋&fontSize=90)
 <h1 align="center">WelCome👋</h3>
 <h3 align="center">Donghyeon`s Github</h3>
 <br><br><br>
@@ -35,3 +36,5 @@
 <a href="https://www.arduino.cc/" target="_blank">
  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
  </p>
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer👋&fontSize=90)
