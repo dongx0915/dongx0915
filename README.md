@@ -10,6 +10,8 @@
 
 <p align="center"> 
   
+  <center>
+  
   [![GitHub](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://Donghyeon0915.github.io/)](https://Donghyeon0915.github.io/) 
   [![Git](http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white&link=)]()
   [![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&link=)]()
@@ -21,4 +23,5 @@
   [![FaceBook](http://img.shields.io/badge/-FaceBook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://zzsza.github.io/)]()
   [![Instagram](http://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=)]()
   
+  </center>
  </p>
