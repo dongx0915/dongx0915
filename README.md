@@ -20,6 +20,7 @@
   [![Html](http://img.shields.io/badge/-Html-e34f26?style=flat-square&logo=html5&logoColor=white&link=)]()
   [![CSS3](http://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&link=)]()
   [![MySQL](http://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white&link=)]()
+  [![React](http://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=white&link=)]()
   [![FaceBook](http://img.shields.io/badge/-FaceBook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://zzsza.github.io/)]()
   [![Instagram](http://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=)]()
   
