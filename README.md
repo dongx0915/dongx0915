@@ -12,7 +12,6 @@
   
   [![GitHub](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://Donghyeon0915.github.io/)](https://Donghyeon0915.github.io/) 
   [![Git](http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white&link=)]()
- 
   [![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&link=)]()
   [![Python](http://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white&link=)]()
   [![JavaScript](http://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black&link=)]()
