@@ -2,15 +2,19 @@
 <h3 align="center">Donghyeon`s Github</h3>
 <br><br><br>
 
-<p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=donghyeon0915&show_icons=true&locale=en" alt="donghyeon0915" />
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=donghyeon0915&show_icons=true&locale=en" alt="donghyeon0915" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donghyeon0915&show_icons=true&locale=en&layout=compact" alt="donghyeon0915" />
 </p>
 
 <br>
 
-![](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://github.com/Donghyeon0915){: .align-center}
-
 <p align="center"> 
+   
+  <img src = "http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://github.com/Donghyeon0915"></a>
+  <img src = "http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white&link="></a>
+ 
+ </p>
  
   <a href="https://github.com/Donghyeon0915/"><img src = "http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://github.com/Donghyeon0915"></a>
   <a href="https://github.com/Donghyeon0915/"><img src = "http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white&link="></a>
