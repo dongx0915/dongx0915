@@ -8,9 +8,11 @@
 
 <br>
 
+![](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://github.com/Donghyeon0915){: .align-center}
+
 <p align="center"> 
  
-  <a href="https://github.com/Donghyeon0915/"><img src = "http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://github.com/Donghyeon0915)"></a>
+  <a href="https://github.com/Donghyeon0915/"><img src = "http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://github.com/Donghyeon0915"></a>
   <a href="https://github.com/Donghyeon0915/"><img src = "http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white&link="></a>
   <a href="https://github.com/Donghyeon0915/"><img src = "http://img.shields.io/badge/-FaceBook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://zzsza.github.io/"></a>
   <a href="https://github.com/Donghyeon0915/"><img src = "http://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link="></a>
