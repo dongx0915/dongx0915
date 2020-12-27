@@ -10,11 +10,6 @@
 <br>
 
 <p align="center"> 
-   
-  <img src = "http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://github.com/Donghyeon0915"></a>
-  <img src = "http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white&link="></a>
- 
- </p>
  
   <a href="https://github.com/Donghyeon0915/"><img src = "http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://github.com/Donghyeon0915"></a>
   <a href="https://github.com/Donghyeon0915/"><img src = "http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white&link="></a>
