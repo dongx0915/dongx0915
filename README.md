@@ -9,7 +9,7 @@
 
 <br>
 
-<pre align="center"> 
+<p align="right"> 
   
   <a href="https://github.com/Donghyeon0915/"><img src = "http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://github.com/Donghyeon0915"></a>
   <a href="https://github.com/Donghyeon0915/"><img src = "http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white&link="></a>
@@ -26,4 +26,5 @@
   <a href="https://github.com/Donghyeon0915/"><img src = "http://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&link="></a>
   <a href="https://github.com/Donghyeon0915/"><img src = "http://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white&link="></a>
   <a href="https://github.com/Donghyeon0915/"><img src = "http://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=white&link="></a>
-</pre>
+
+</p>
