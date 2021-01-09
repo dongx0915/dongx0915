@@ -25,9 +25,11 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 
-<p align="left">
+<p align="center">
   <a href ="https://solved.ac/dongdong99"> <img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=dongdong99"> </a>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donghyeon0915&show_icons=true&locale=en&layout=compact" alt="donghyeon0915" />
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=donghyeon0915&show_icons=true&locale=en&layout=compact" alt="donghyeon0915" />
+
