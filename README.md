@@ -2,11 +2,12 @@
 <h3 align="center">Donghyeon`s Github</h3>
 <br><br><br>
 
-<p align="left">
-  <a href ="https://solved.ac/dongdong99"> <img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=dongdong99"> </a>
-</p>
-
 <br>
+
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+
+<p align="center"> Techs that I've used at least once </p>
+
 
 <p align="center">
   <img src = "http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://github.com/Donghyeon0915"/></a>&nbsp 
@@ -22,6 +23,10 @@
   <img src ="http://img.shields.io/badge/-Html-e34f26?style=flat-square&logo=html5&logoColor=white&link="/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+</p>
+
+<p align="left">
+  <a href ="https://solved.ac/dongdong99"> <img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=dongdong99"> </a>
 </p>
 
 
