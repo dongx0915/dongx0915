@@ -32,7 +32,7 @@
 
 ### ✨ Summary
 
-- 🔭 I’m currently working on [DEU](https://www.11st.co.kr/) as a student
+- 🔭 I’m currently working on [DEU](https://www.deu.ac.kr/) as a student
 - 🌱 I'm currently learning Algorithms, Java
 - 📝 I regularly write articles on [my Github](https://github.com/Donghyeon0915).  
   
