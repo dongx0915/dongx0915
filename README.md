@@ -24,8 +24,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donghyeon0915&show_icons=true&locale=en&layout=compact" alt="donghyeon0915"/>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <a href ="https://solved.ac/dongdong99"><img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=dongdong99"></a>
 </p>
 
