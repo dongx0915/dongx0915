@@ -2,8 +2,9 @@
 <h3 align="center">Donghyeon`s Github</h3>
 <br><br><br>
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dongdong99)](https://solved.ac/dongdong99)
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=donghyeon0915&show_icons=true&locale=en" alt="donghyeon0915" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donghyeon0915&show_icons=true&locale=en&layout=compact" alt="donghyeon0915" />
 </p>
 
