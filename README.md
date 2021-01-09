@@ -6,8 +6,7 @@
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
-
-
+  
 <p align="center">
   <img src = "http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://github.com/Donghyeon0915"/></a>&nbsp 
   <img src = "http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white&link="/></a>&nbsp 
@@ -25,9 +24,9 @@
 </p>
 
 <p align="center">
-  <a href ="https://solved.ac/dongdong99"> <img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=dongdong99"> </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donghyeon0915&show_icons=true&locale=en&layout=compact" alt="donghyeon0915"/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donghyeon0915&show_icons=true&locale=en&layout=compact" alt="donghyeon0915" />
+  <a href ="https://solved.ac/dongdong99"><img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=dongdong99"></a>
 </p>
 
 
