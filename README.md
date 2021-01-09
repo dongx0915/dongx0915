@@ -2,9 +2,8 @@
 <h3 align="center">Donghyeon`s Github</h3>
 <br><br><br>
 
-<p>
+<p align="center">
   <a href ="https://solved.ac/dongdong99"> <img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=dongdong99"> </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donghyeon0915&show_icons=true&locale=en&layout=compact" alt="donghyeon0915" />
 </p>
 
 <br>
@@ -28,3 +27,5 @@
   <a href="https://github.com/Donghyeon0915/"><img src = "http://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=white&link="></a>
 
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=donghyeon0915&show_icons=true&locale=en&layout=compact" alt="donghyeon0915" />
