@@ -23,9 +23,12 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 
+<br><br>
+
 <p align="center">
   <a href ="https://solved.ac/dongdong99"><img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=dongdong99"></a>
 </p>
 
-
-
+<p align="center">
+   <a href ="https://solved.ac/dongdong99"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dongdong99"></a>
+</p>
