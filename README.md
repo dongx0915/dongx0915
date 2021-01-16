@@ -25,7 +25,7 @@
  </p>
 
 ### 💫 Experience
-- **DEU** - *Dong-Eui University Coumputer Software Engineering(2018~)*
+- **DEU** - *Dong-Eui University Computer Software Engineering(2018~)*
 
 <br/>  
 
