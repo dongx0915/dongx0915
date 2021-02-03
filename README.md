@@ -25,8 +25,8 @@
  </p>
 
 ### 💫 Experience
-- **DEU** - *Dong-Eui University Computer Software Engineering(2018~)*
-- **PANTECH** - *Vega Iron Kitkat OS Upgrade Beta Tester(2014.06.09 ~ 2014.07.17)*
+- **DEU** - *Dong-Eui University* ***Computer Software Engineering(2018~)***
+- **PANTECH** - *Vega Iron* ***Kitkat OS*** Upgrade Beta Tester(2014.06.09 ~ 2014.07.17)*
 <br/>  
 
 
