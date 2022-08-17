@@ -40,20 +40,20 @@
 
 <br>
 
-## :gem: Stats  
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongdong99)](https://solved.ac/dongdong99/)
-<img src="https://github-readme-stats.vercel.app/api?username=donghyeon0915" width="50%">
-
 ## :trophy: Github Stats  
 
-<div align = "center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donghyeon0915&hide_border=true&layout=compact" align="center" style="width: 50%" />
-</div>   
-
+<table>
+   <tr>
+     <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=donghyeon0915" width="100%">    
+     </td>
+     <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donghyeon0915&hide_border=true&layout=compact" width: "100%" />    
+     </td>
 <br/>  
 
 
+## :gem: Problem Solve Stats  
 
 
 <p align="center">
