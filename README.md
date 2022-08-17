@@ -45,11 +45,12 @@
 <table>
    <tr>
      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=donghyeon0915" width="100%">    
+        <img src="https://github-readme-stats.vercel.app/api?username=donghyeon0915" align = "right"; width="90%">    
      </td>
      <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donghyeon0915&hide_border=true&layout=compact" width: "100%" />    
      </td>
+</table>
 <br/>  
 
 
