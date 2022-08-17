@@ -9,7 +9,7 @@
 
 ### :seedling: Donghyeon`s Github :seedling:
 
-<p align>
+<p>
 <a href="https://github.com/Donghyeon0915" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -40,17 +40,21 @@
 
 <br>
 
+## :gem: Stats  
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongdong99)](https://solved.ac/dongdong99/)
 <img src="https://github-readme-stats.vercel.app/api?username=donghyeon0915" width="50%">
 
 ## :trophy: Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donghyeon0915&hide_border=true&layout=compact" align="left" style="width: 100%" />
-    
+<div align = "center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donghyeon0915&hide_border=true&layout=compact" align="center" style="width: 50%" />
+</div>   
+
 <br/>  
 
 
-## :gem: Problem Solve Stats  
+
 
 <p align="center">
    <a href ="https://solved.ac/dongdong99"><img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=dongdong99"></a>
