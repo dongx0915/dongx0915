@@ -5,13 +5,11 @@
 
 <br/>  
 
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20RECT%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50)
-
 ## Hi There 👋  
 
 ### :seedling: Donghyeon`s Github :seedling:
 
-<p>
+<p align>
 <a href="https://github.com/Donghyeon0915" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -42,17 +40,13 @@
 
 <br>
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongdong99)](https://solved.ac/dongdong99/)
+<img src="https://github-readme-stats.vercel.app/api?username=donghyeon0915" width="50%">
+
 ## :trophy: Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Donghyeon0915&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donghyeon0915&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
+    
 <br/>  
 
 
