@@ -1,15 +1,10 @@
 
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=Donghyeon0915&&style=flat-square" align="right" />
-</div>  
 
-<br/>  
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BC5F7&center=true&multiline=true&width=435&lines=Donghyeon%60s+GitHub+%E2%AD%90" alt="Typing SVG" /></a>
+</p>
 
-## Hi There 👋  
-
-### :seedling: Donghyeon`s Github :seedling:
-
-<p>
+<p align="center"
 <a href="https://github.com/Donghyeon0915" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -23,6 +18,10 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
 </a>  
  </p>
+ 
+ ---
+ 
+<br/>  
 
 ### 💫 Experience
 - **DEU** - *Dong-Eui University* ***Computer Software Engineering(2018~)***
