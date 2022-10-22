@@ -1,5 +1,9 @@
 
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Donghyeon0915&&style=flat-square" align="center" />
+</p>  
+  
+  
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BC5F7&center=true&multiline=true&width=435&lines=Donghyeon%60s+GitHub+%E2%AD%90" alt="Typing SVG" /></a>
 </p>
