@@ -44,10 +44,10 @@
   
 | Type | Date | Contents | Organization |
 | :---: | :---: | :---: | :---: |
-| `Android` | 2022.02.01 ~ | ToothFairy - 스마트 주걱턱 교정 장치 & 교정 관리 시스템  | LAB (Computer Software Engineering) |
-| `Web` | 2022.03.01 ~ 2022.06.11 | Manito - 위치 기반 익명 도움 서비스 | Deu (Computer Software Engineering) |
-| `JAVA` | 2022.03.15 ~ 2022.06.12 | WePLi - 플레이리스트 공유 플랫폼 | Deu (Computer Software Engineering) |
-| `Android` | 2022.09.08 ~ 2022.12.02 | LAB - 동의대학교 실습실 예약 시스템 | Deu (Computer Software Engineering) |
+  | `Android` | 2022.02.01 ~ | <b>[ ToothFairy ]</b> <br>스마트 주걱턱 교정 장치 & 교정 관리 시스템  | LAB (Computer Software Engineering) |
+  | `Web` | 2022.03.01 ~<br>2022.06.11 | <b>[ Manito ]</b> <br>위치 기반 익명 도움 서비스 | DEU (Computer Software Engineering) |
+  | `JAVA` | 2022.03.15 ~<br>2022.06.12 | <b>[ WePLi ]</b> <br>플레이리스트 공유 플랫폼 | DEU (Computer Software Engineering) |
+  | `Android` | 2022.09.08 ~<br>2022.12.02 | <b>[ LAB ]</b> <br> 동의대학교 실습실 예약 시스템 | DEU (Computer Software Engineering) |
 
 </div>
 
@@ -57,7 +57,7 @@
   
 | Type | Date | Contents | Organization |
 | :---: | :---: | :---: | :---: |
-| `External activities` | 2014.06.09 ~ 2014.07.17 | Vega Iron Kitkat OS Upgrade Tester <br>(팬텍 베가 아이언 Kitkat OS 업그레이드 테스터) | PANTECH |
+  | `External activities` | 2014.06.09 ~<br>2014.07.17 | <b>PANTECH</b> Vega Iron Kitkat OS Upgrade Tester <br>(팬텍 베가 아이언 Kitkat OS 업그레이드 테스터) | <b>PANTECH</b> |
 | `Internal activities` | 2022.05.25 | 특허 출원 (공유 기반 스마트 주자창 관리 시스템) | Univ LAB.Software Engineering |
 | `Certificate` | 2022.07.22 | ISTQB CTFL 자격증 취득 | STEN |
 | `Internal activities` | 2022.12.23 ~ | DEU Computer Software Engineering Lab <br>(컴퓨터소프트웨어공학과 연구실) | Dong-eui University |
