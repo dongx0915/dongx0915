@@ -58,7 +58,7 @@
 | Type | Date | Contents | Organization |
 | :---: | :---: | :---: | :---: |
   | `External activities` | 2014.06.09 ~<br>2014.07.17 | <b>PANTECH</b> Vega Iron Kitkat OS Upgrade Tester <br>(팬텍 베가 아이언 Kitkat OS 업그레이드 테스터) | <b>PANTECH</b> |
-| `Internal activities` | 2022.05.25 | 특허 출원 (공유 기반 스마트 주자창 관리 시스템) | Univ LAB.Software Engineering |
+| `Internal activities` | 2022.05.25 | 특허 출원 (공유 기반 스마트 주자창 관리 시스템) | LAB (Computer Software Engineering) |
 | `Certificate` | 2022.07.22 | ISTQB CTFL 자격증 취득 | STEN |
 | `Internal activities` | 2022.12.23 ~ | DEU Computer Software Engineering Lab <br>(컴퓨터소프트웨어공학과 연구실) | Dong-eui University |
 
