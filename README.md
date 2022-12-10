@@ -2,7 +2,8 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Donghyeon0915&&style=flat-square" align="center" />
 </p>  
-  
+
+
   
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BC5F7&center=true&multiline=true&width=435&lines=Donghyeon%60s+GitHub+%E2%AD%90" alt="Typing SVG" /></a>
@@ -27,40 +28,7 @@
  
 <br/>  
 
-### 💫 Experience
-- **DEU** - *Dong-Eui University* ***Computer Software Engineering(2018~)***
-- **DEU LAB** - *Dong-Eui University* ***Lab(2021.12.23~)***
-- **PANTECH** - *Vega Iron* ***Kitkat OS*** *Upgrade* ***Tester(2014.06.09 ~ 2014.07.17)***
-<br/>  
-
-
-### ✨ Summary
-
-- 🔭 I’m currently working on [DEU](https://www.deu.ac.kr/) as a student
-- 🌱 I'm currently learning Algorithms, Java
-- 📝 I regularly write articles on [my Github](https://github.com/Donghyeon0915).  
-  
-
-<br>
-
-## :trophy: Github Stats  
-
-<table>
-   <tr>
-     <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=donghyeon0915" align = "right"; width="90%">    
-     </td>
-     <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donghyeon0915&hide_border=true&layout=compact" width: "100%" />    
-     </td>
-</table>
-<br/>  
-
-
-## :gem: Problem Solve Stats  
-
-
-<p align="center">
+  <p align="center">
    <a href ="https://solved.ac/dongdong99"><img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=dongdong99"></a>
 </p>
 
@@ -68,6 +36,7 @@
    <a href ="https://solved.ac/dongdong99"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dongdong99"></a>
 </p>
 <br/>  
+
 
 ## 🖥️ PROJECT (프로젝트) ──
 
@@ -108,6 +77,41 @@
 | 2022.10.29 | TopCit 3수준 달성 (545점) | TOPCIT |
 
 </div>
+
+<!-- ### 💫 Experience
+- **DEU** - *Dong-Eui University* ***Computer Software Engineering(2018~)***
+- **DEU LAB** - *Dong-Eui University* ***Lab(2021.12.23~)***
+- **PANTECH** - *Vega Iron* ***Kitkat OS*** *Upgrade* ***Tester(2014.06.09 ~ 2014.07.17)***
+<br/>   -->
+
+<br>
+
+## :trophy: Github Stats  
+
+<table>
+   <tr>
+     <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=donghyeon0915" align = "right"; width="90%">    
+     </td>
+     <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donghyeon0915&hide_border=true&layout=compact" width: "100%" />    
+     </td>
+</table>
+<br/>  
+
+
+<!-- ## :gem: Problem Solve Stats  
+
+
+<p align="center">
+   <a href ="https://solved.ac/dongdong99"><img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=dongdong99"></a>
+</p>
+
+<p align="center">
+   <a href ="https://solved.ac/dongdong99"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dongdong99"></a>
+</p>
+<br/>   -->
+
 <!--
 **Donghyeon0915/Donghyeon0915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
