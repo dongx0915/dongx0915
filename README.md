@@ -61,7 +61,7 @@
 | `Internal activities` | 2022.05.25 | 특허 출원 (공유 기반 스마트 주자창 관리 시스템) | LAB (Computer Software Engineering) |
 | `Certificate` | 2022.07.22 | ISTQB CTFL 자격증 취득 | STEN |
   | `External activities` | 2022.10.29 | TopCit 3수준 달성 (545점) | TOPCIT |
-| `Internal activities` | 2022.12.23 ~ | DEU Computer Software Engineering Lab <br>(컴퓨터소프트웨어공학과 연구실) | Dong-eui University |
+| `Internal activities` | 2021.12.23 ~ | DEU Computer Software Engineering Lab <br>(컴퓨터소프트웨어공학과 연구실) | Dong-eui University |
  
 
 </div>
