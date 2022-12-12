@@ -89,7 +89,7 @@
 
 <br>
 
-## :trophy: Github Stats  
+## :trophy: GITHUB STATS ──
 
 <table>
    <tr>
