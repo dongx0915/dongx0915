@@ -60,8 +60,8 @@
   | `External activities` | 2014.06.09 ~<br>2014.07.17 | <b>PANTECH</b> Vega Iron Kitkat OS Upgrade Tester <br>(팬텍 베가 아이언 Kitkat OS 업그레이드 테스터) | <b>PANTECH</b> |
   | `Internal activities` | 2021.12.23 ~ | DEU Computer Software Engineering Lab <br>(컴퓨터소프트웨어공학과 연구실) | Dong-eui University |
 | `Internal activities` | 2022.05.25 | 특허 출원 (공유 기반 스마트 주자창 관리 시스템) | LAB (Computer Software Engineering) |
-  | `External activities` | 2022.07.11 ~<br>2022.10.06 | 2022 블록체인 & 핀테크 개발자 과정 | 부산광역시 일자리경제과 |
-| `Certificate` | 2022.07.22 | ISTQB CTFL 자격증 취득 | STEN |
+  | `External activities` | 2022.07.11 ~<br>2022.10.06 | 2022 블록체인 & 핀테크 개발자 과정 수료 | 부산광역시 일자리경제과 |
+| `Certificate` | 2022.07.22 | ISTQB CTFL 자격증 취득 | [STEN](https://www.sten.or.kr/exam/examlist.php?gclid=Cj0KCQiAnNacBhDvARIsABnDa6996HD6vHstBwMXSDM6LBDJq0b88r5rgFzghQyQuNsK3yDJ6Zmlh3saAqXhEALw_wcB) |
   | `External activities` | 2022.10.29 | TopCit 3수준 달성 (545점) | TOPCIT |
 
  
@@ -78,7 +78,8 @@
 | 2022.08.03 | 2022년도 학업성적 최우등상 (총장상) | Dong-eui University |
 | 2022.11.25 | 2022 통합 성과 경진대회 장려상 (총장상) | Dong-eui University |
 | 2022.12.08 | 2022 LINC 3.0 캡스톤 디자인 경진대회 우수상 (총장상) | Dong-eui University LINC 3.0 |
-| 2022.10.29 | TopCit 3수준 달성 (545점) | TOPCIT |
+| 2022.03.03 |「ICT & 스마트 헬스케어 기반 융복합 스포츠산업」아이디어 경진대회 상위 10팀 선정 | [부산테크노파크](https://www.btp.or.kr/?action=BD0000M&pagecode=P000000296&command=View&idx=13672&language=KR) |
+| 2022.10.29 | TopCit 3수준 달성 (545점) | [TOPCIT](https://www.topcit.or.kr/home.do) |
 
 </div>
 
