@@ -38,7 +38,7 @@
 <br/>  
 
 
-## 🖥️ PROJECT (프로젝트) ──
+## 🖥️ PROJECTS (프로젝트) ──
 
 <div align="center">
   
