@@ -44,7 +44,7 @@
   
 | Type | Date | Contents | Organization |
 | :---: | :---: | :---: | :---: |
-  | `Android` | 2022.02.01 ~ | <b>[ ToothFairy ]</b> <br>스마트 주걱턱 교정 장치 & 교정 관리 시스템  | LAB (Computer Software Engineering) |
+  | `Android` | 2022.02.01 ~ | <b>[ ToothFairy ](https://github.com/DEU-ToothFairy/ToothFairy_Client)</b> <br>스마트 주걱턱 교정 장치 & 교정 관리 시스템  | LAB (Computer Software Engineering) |
   | `Web` | 2022.03.01 ~<br>2022.06.11 | <b>[ Manito ]</b> <br>위치 기반 익명 도움 서비스 | DEU (Computer Software Engineering) |
   | `JAVA` | 2022.03.15 ~<br>2022.06.12 | <b>[ WePLi ]</b> <br>플레이리스트 공유 플랫폼 | DEU (Computer Software Engineering) |
   | `Android` | 2022.09.08 ~<br>2022.12.02 | <b>[ LAB ]</b> <br> 동의대학교 실습실 예약 시스템 | DEU (Computer Software Engineering) |
