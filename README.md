@@ -3,7 +3,9 @@
 </p>  
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=10&color=7BC5F7&center=true&multiline=true&width=435&height=160&lines=%E3%80%80%E2%9C%A8+Welcome+Donghyeon%60s+Github+%E2%9C%A8;%E3%80%80;%E2%94%8C%E2%94%80+github%E3%80%80%E2%94%80%E2%94%80%E2%94%90%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80;%E2%94%8C%E2%94%80+me+%E2%94%80%E2%94%80%E2%94%90+%E3%80%80++%3A%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80;donghyeon0915+%40+gmail.com;%E2%94%94%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+email+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%98;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=10&color=7BC5F7&center=true&multiline=true&width=435&height=160&lines=%E3%80%80;%E2%94%8C%E2%94%80+github%E3%80%80%E2%94%80%E2%94%80%E2%94%90%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80;%E2%94%8C%E2%94%80+me+%E2%94%80%E2%94%80%E2%94%90+%E3%80%80++%3A%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80;donghyeon0915+%40+gmail.com;%E2%94%94%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+email+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%98;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80"
+        alt="Typing SVG" /></a>
 </p>
 
 <!-- <p align="center">
