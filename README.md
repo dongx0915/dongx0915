@@ -3,11 +3,13 @@
 <img src="https://komarev.com/ghpvc/?username=Donghyeon0915&&style=flat-square" align="center" />
 </p>  
 
-
-  
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BC5F7&center=true&multiline=true&width=435&lines=Donghyeon%60s+GitHub+%E2%AD%90" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1&color=7BC5F7&center=true&multiline=true&repeat=false&width=435&height=160&lines=%E3%80%80%E2%9C%A8+Welcome+Donghyeon%60s+Github+%E2%9C%A8;%E3%80%80;%E2%94%8C%E2%94%80+github%E3%80%80%E2%94%80%E2%94%80%E2%94%90%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80;%E2%94%8C%E2%94%80+me+%E2%94%80%E2%94%80%E2%94%90+%E3%80%80++%3A%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80;donghyeon0915+%40+gmail.com;%E2%94%94%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+email+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%98" alt="Typing SVG" /></a>
 </p>
+
+<!-- <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BC5F7&center=true&multiline=true&width=435&lines=Donghyeon%60s+GitHub+%E2%AD%90" alt="Typing SVG" /></a>
+</p> -->
 
 <p align="center"
 <a href="https://github.com/Donghyeon0915" target="_blank">
