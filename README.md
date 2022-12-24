@@ -1,44 +1,47 @@
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Donghyeon0915&&style=flat-square" align="center" />
-</p>  
+<h1 align="center">
+        <p align="center">
+                <img src="https://komarev.com/ghpvc/?username=Donghyeon0915&&style=flat-square" align="center" />
+                <a href ="https://solved.ac/dongdong99"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dongdong99"></a>
+        </p>
+        Donghyeon`s Github
+        
+</h1>
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=10&color=7BC5F7&center=true&multiline=true&width=435&height=160&lines=%E3%80%80;%E2%94%8C%E2%94%80+github%E3%80%80%E2%94%80%E2%94%80%E2%94%90%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80;%E2%94%8C%E2%94%80+me+%E2%94%80%E2%94%80%E2%94%90+%E3%80%80++%3A%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80;donghyeon0915+%40+gmail.com;%E2%94%94%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+email+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%98;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80"
+<div align="center" style="display:flex">
+        <a href="https://git.io/typing-svg"><img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=10&color=7BC5F7&center=true&multiline=true&width=435&height=100&lines=%E2%94%8C%E2%94%80+me+%E2%94%80%E2%94%80%E2%94%90+%E3%80%80++%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80;donghyeon0915+%40+gmail.com;%E2%94%94%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+email+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%98;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80"
         alt="Typing SVG" /></a>
-</p>
+</div>
 
+<p align="center"
+        <a href="https://github.com/Donghyeon0915" target="_blank">
+                <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+        </a>
+        <a href="https://github.com/Donghyeon0915" target="_blank">
+                <img src=https://img.shields.io/badge/git-%231E77B5.svg?&style=for-the-badge&logo=git&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+        </a>
+        <a href="https://www.facebook.com/profile.php?id=100007219727232" target="_blank">
+                <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+        </a>
+        <a href="https://www.instagram.com/dongx._.2/" target="_blank">
+                <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
+        </a>  
+ </p>
+ 
 <!-- <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BC5F7&center=true&multiline=true&width=435&lines=Donghyeon%60s+GitHub+%E2%AD%90" alt="Typing SVG" /></a>
 </p> -->
 
-<!-- <p align="center"
-<a href="https://github.com/Donghyeon0915" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/Donghyeon0915" target="_blank">
-<img src=https://img.shields.io/badge/git-%231E77B5.svg?&style=for-the-badge&logo=git&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100007219727232" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/dongx._.2/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
-</a>  
- </p> -->
- 
- ---
- 
-<br/>  
 
-  <p align="center">
+ 
+<!-- 백준 스탯 -->
+<!-- <p align="center">
    <a href ="https://solved.ac/dongdong99"><img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=dongdong99"></a>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
    <a href ="https://solved.ac/dongdong99"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dongdong99"></a>
-</p>
-<br/>  
+</p> -->
 
 
 ## 🖥️ PROJECTS (프로젝트) ──
@@ -94,8 +97,14 @@
 
 <br>
 
-## :trophy: GITHUB STATS ──
+## :trophy: STATS ──
 
+<div align="center">
+        
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dongdong99)
+
+</div>
+<!-- 
 <table>
    <tr>
      <td>
@@ -105,7 +114,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donghyeon0915&hide_border=true&layout=compact" width: "100%" />    
      </td>
 </table>
-<br/>  
+<br/>   -->
 
 
 <!-- ## :gem: Problem Solve Stats  
