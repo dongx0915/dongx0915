@@ -1,7 +1,7 @@
 <h1 align="center">
         <p align="center">
                 <img src="https://komarev.com/ghpvc/?username=Donghyeon0915&&style=flat-square" align="center" />
-                <a href ="https://solved.ac/dongdong99"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dongdong99"></a>
+                <a href ="https://solved.ac/dongdong99"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dongdong99" style="vertical-align: middle;"></a>
         </p>
         Donghyeon`s Github
         
