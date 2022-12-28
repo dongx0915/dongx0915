@@ -9,7 +9,7 @@
 
 <div align="center" style="display:flex">
         <a href="https://git.io/typing-svg"><img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=10&color=7BC5F7&center=true&multiline=true&width=435&height=100&lines=%E2%94%8C%E2%94%80+me+%E2%94%80%E2%94%80%E2%94%90+%E3%80%80++%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80;donghyeon0915+%40+gmail.com;%E2%94%94%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+email+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%98;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80"
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=10&color=7BC5F7&center=true&multiline=true&width=435&height=100&lines=%E2%94%8C%E2%94%80+me+%E2%94%80%E2%94%80%E2%94%90+%E3%80%80++%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80;donghyeon0915+%40+gmail.com;%E2%94%94%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+email+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%98;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80"
         alt="Typing SVG" /></a>
 </div>
 
