@@ -68,6 +68,7 @@
 | `Internal activities` | 2022.05.25 | 특허 출원 (공유 기반 스마트 주자창 관리 시스템) | LAB (Computer Software Engineering) |
   | `External activities` | 2022.07.11 ~<br>2022.10.06 | 2022 블록체인 & 핀테크 개발자 과정 수료 | 부산광역시 일자리경제과 |
 | `Certificate` | 2022.07.22 | ISTQB CTFL 자격증 취득 | [STEN](https://www.sten.or.kr/exam/examlist.php?gclid=Cj0KCQiAnNacBhDvARIsABnDa6996HD6vHstBwMXSDM6LBDJq0b88r5rgFzghQyQuNsK3yDJ6Zmlh3saAqXhEALw_wcB) |
+| `Internal activities` | 2022.08.01 ~<br>2022.08.06 | 2022 동의대학교 고교 써머스쿨 교사 | Dong-eui University |
   | `External activities` | 2022.10.29 | TopCit 3수준 달성 (545점) | [TOPCIT](https://www.topcit.or.kr/home.do) |
 
  
