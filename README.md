@@ -83,11 +83,12 @@
 | Date | Contents | Organization |
 | :---: | :---: | :---: |
 | 2019.08.01 | 2019년도 학업성적 우등상 (총장상) | Dong-eui University |
-| 2022.08.03 | 2022년도 학업성적 최우등상 (총장상) | Dong-eui University |
+| 2022.08.03 | 2022년도 1학기 학업성적 최우등상 (총장상) | Dong-eui University |
 | 2022.11.25 | 2022 통합 성과 경진대회 장려상 (총장상) | Dong-eui University |
 | 2022.12.08 | 2022 LINC 3.0 캡스톤 디자인 경진대회 우수상 (총장상) | Dong-eui University LINC 3.0 |
 | 2022.03.03 |「ICT & 스마트 헬스케어 기반 융복합 스포츠산업」아이디어 경진대회 상위 10팀 선정 | [부산테크노파크](https://www.btp.or.kr/?action=BD0000M&pagecode=P000000296&command=View&idx=13672&language=KR) |
 | 2022.10.29 | TopCit 최고득점 대학특별상 수상 (총장상) | [TOPCIT](https://www.topcit.or.kr/home.do) |
+| 2023.02.10 | 2022년도 2학기 학업성적 최우등상 (총장상) | Dong-eui University |
 
 </div>
 
