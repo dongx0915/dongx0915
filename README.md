@@ -82,7 +82,7 @@
 
 | Date | Contents | Organization |
 | :---: | :---: | :---: |
-| `2019.08.01` | 2019년도 학업성적 우등상 (총장상) | Dong-eui University |
+| `2019.08.01` | 2019년도 1학기 학업성적 우등상 (총장상) | Dong-eui University |
 | `2022.08.03` | 2022년도 1학기 학업성적 최우등상 (총장상) | Dong-eui University |
 | `2022.11.25` | 2022 통합 성과 경진대회 장려상 (총장상) | Dong-eui University |
 | `2022.12.08` | 2022 LINC 3.0 캡스톤 디자인 경진대회 우수상 (총장상) | Dong-eui University LINC 3.0 |
