@@ -61,7 +61,7 @@
 
 </div>
 
-## 🏃‍♂️ACTIVITIES **(활동)** ──
+## 🏃‍♂️ ACTIVITIES **(활동)** ──
 
 <div align="center">
   
@@ -80,7 +80,7 @@
 
 </div>
 
-## 🎖️ **AWARDS** **(수상 내역)** ──
+## 🎖️ AWARDS (수상 내역) ──
 
 <div align="center">
 
