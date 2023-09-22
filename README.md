@@ -48,9 +48,9 @@
 ## 🖥️ PROJECTS (프로젝트) ──
 
 <div align="center">
-        
+  
 | Type | Date | Contents | Organization |
-| :---: | :---: | :---: | :---: |
+| :---: | :--- | :--- | :---: |
 | `Android` | 23.03.01 ~ | <b>[ Smi)ey ](https://github.com/DEU-Smiley/Smiley-Android-App)</b> <br> 스마트 교정 관리 시스템 (***ToothFairy*** 개선 버전) | 한이음(Hanium) |
 | `Android` | 22.07.01 ~ 22.12.30| <b>[ ToothFairy ](https://github.com/DEU-ToothFairy/ToothFairy_Client)</b> <br>스마트 주걱턱 교정 장치 & 교정 관리 시스템  | DEU Lab |
 | `Android` | 22.09.08 ~ 22.12.02 | <b>[ LAB ](https://github.com/DEU-Lab-Reservation-System/LAB-Android-App)</b> <br> 동의대학교 실습실 예약 시스템 | DEU |
@@ -61,23 +61,21 @@
   
 
 </div>
-<br>
 
 ## 🏃‍♂️ ACTIVITIES **(활동)** ──
 
 <div align="center">
   
 | Type | Date | Contents | Organization |
-| :---: | :---: | :---: | :---: |
-| `External Activities` | 14.06.09 ~ 14.07.17 | <b>PANTECH</b> Vega Iron Kitkat OS Upgrade Tester <br>(팬텍 베가 아이언 Kitkat OS 업그레이드 테스터) | <b>PANTECH</b> |
-| `Internal Activities` | 21.12.23 ~ 24.02.28 | DEU Computer Software Engineering Lab <br>(컴퓨터소프트웨어공학과 연구실) | DEU |
-| `External Activities` | 22.07.11 ~ 22.10.06 | 2022 블록체인 & 핀테크 개발자 과정 수료 | 부산광역시 일자리경제과 |
-| `Internal Activities` | 22.05.25 | 특허 출원 (공유 기반 스마트 주자창 관리 시스템) | DEU Lab |
-| `Internal Activities` | 22.08.01 ~ 22.08.06 | 2022 동의대학교 고교 써머스쿨 교사 | DEU |
+| :---: | :--- | --- | :---: |
+| `External` | 14.06.09 ~ 14.07.17 | <b>PANTECH</b> **팬텍 베가 아이언 Kitkat OS 업그레이드 테스터**<br>(Vega Iron Kitkat OS Upgrade Tester) | <b>PANTECH</b> |
+|`External` | 22.07.11 ~ 2022.10.06 | 2022 블록체인 & 핀테크 개발자 과정 수료 | 부산광역시 일자리경제과 |
+| `Internal` | 21.12.23 ~ 23.02.28 | 컴퓨터소프트웨어공학과 연구실<br>(DEU Computer Software Engineering Lab) | DEU |
+| `Internal` | 22.05.25 | 특허 출원 (공유 기반 스마트 주자창 관리 시스템) | DEU |
+| `Internal` | 22.08.01 ~ 22.08.06 | 2022 동의대학교 고교 써머스쿨 교사 | DEU |
 | `Certificate` | 22.07.22 | ISTQB CTFL 자격증 취득 | [STEN](https://www.sten.or.kr/exam/examlist.php?gclid=Cj0KCQiAnNacBhDvARIsABnDa6996HD6vHstBwMXSDM6LBDJq0b88r5rgFzghQyQuNsK3yDJ6Zmlh3saAqXhEALw_wcB) |
 | `Certificate` | 22.10.29 | TopCit 3수준 달성 (545점) | [TOPCIT](https://www.topcit.or.kr/home.do) |
 | `Certificate` | 23.09.01 | 정보처리기사 취득 | [Q-net](https://www.q-net.or.kr/man001.do?&gSite=Q&gId=) |
-
 
  
 
