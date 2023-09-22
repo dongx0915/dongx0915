@@ -43,23 +43,25 @@
    <a href ="https://solved.ac/dongdong99"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dongdong99"></a>
 </p> -->
 
+<br>
 
 ## 🖥️ PROJECTS (프로젝트) ──
 
 <div align="center">
-  
+        
 | Type | Date | Contents | Organization |
 | :---: | :---: | :---: | :---: |
-| `Android` | 2023.03.01 ~ | <b>[ Smi)ey ](https://github.com/DEU-Smiley/Smiley-Android-App)</b> <br> 스마트 교정 관리 시스템 (***ToothFairy*** 개선 버전) | DEU (Computer Software Engineering) |
-| `Android` | 2022.07.01 ~<br>2022.12.30| <b>[ ToothFairy ](https://github.com/DEU-ToothFairy/ToothFairy_Client)</b> <br>스마트 주걱턱 교정 장치 & 교정 관리 시스템  | LAB (Computer Software Engineering) |
-| `Android` | 2022.09.08 ~<br>2022.12.02 | <b>[ LAB ](https://github.com/DEU-Lab-Reservation-System/LAB-Android-App)</b> <br> 동의대학교 실습실 예약 시스템 | DEU (Computer Software Engineering) |
-| `Chrome Extension` | 2023.01.01 ~<br>2023.01.08 | <b>[ NKLCBHub ](https://github.com/Donghyeon0915/NKLCB_Hub)</b> <br> 백준 자동 푸시 익스텐션(Auto Git Push for BOJ) | - |
-| `Java` | 2022.03.15 ~<br>2022.06.12 | <b>[ WePLi ](https://github.com/DeuWePLi/WePLi)</b> <br>플레이리스트 공유 플랫폼 | DEU (Computer Software Engineering) |
-| `Web` | 2022.03.01 ~<br>2022.06.11 | <b>[ Manito ]</b> <br>위치 기반 익명 도움 서비스 | DEU (Computer Software Engineering) |
+| `Android` | 23.03.01 ~ | <b>[ Smi)ey ](https://github.com/DEU-Smiley/Smiley-Android-App)</b> <br> 스마트 교정 관리 시스템 (***ToothFairy*** 개선 버전) | 한이음(Hanium) |
+| `Android` | 22.07.01 ~ 22.12.30| <b>[ ToothFairy ](https://github.com/DEU-ToothFairy/ToothFairy_Client)</b> <br>스마트 주걱턱 교정 장치 & 교정 관리 시스템  | DEU Lab |
+| `Android` | 22.09.08 ~ 22.12.02 | <b>[ LAB ](https://github.com/DEU-Lab-Reservation-System/LAB-Android-App)</b> <br> 동의대학교 실습실 예약 시스템 | DEU |
+| `Chrome Extension` | 23.01.01 ~ 23.01.08 | <b>[ NKLCBHub ](https://github.com/Donghyeon0915/NKLCB_Hub)</b> <br> 백준 자동 푸시 익스텐션(Auto Git Push for BOJ) | - |
+| `Java Swing` | 22.03.15 ~ 22.06.12 | <b>[ WePLi ](https://github.com/DeuWePLi/WePLi)</b> <br>플레이리스트 공유 플랫폼 | DEU |
+| `Web` | 22.03.01 ~ 22.06.11 | <b>[ Manito ]</b> <br>위치 기반 익명 도움 서비스 | DEU  |
 
   
 
 </div>
+<br>
 
 ## 🏃‍♂️ ACTIVITIES **(활동)** ──
 
@@ -67,18 +69,21 @@
   
 | Type | Date | Contents | Organization |
 | :---: | :---: | :---: | :---: |
-  | `External activities` | 2014.06.09 ~<br>2014.07.17 | <b>PANTECH</b> Vega Iron Kitkat OS Upgrade Tester <br>(팬텍 베가 아이언 Kitkat OS 업그레이드 테스터) | <b>PANTECH</b> |
-  | `Internal activities` | 2021.12.23 ~ | DEU Computer Software Engineering Lab <br>(컴퓨터소프트웨어공학과 연구실) | Dong-eui University |
-| `Internal activities` | 2022.05.25 | 특허 출원 (공유 기반 스마트 주자창 관리 시스템) | LAB (Computer Software Engineering) |
-  | `External activities` | 2022.07.11 ~<br>2022.10.06 | 2022 블록체인 & 핀테크 개발자 과정 수료 | 부산광역시 일자리경제과 |
-| `Certificate` | 2022.07.22 | ISTQB CTFL 자격증 취득 | [STEN](https://www.sten.or.kr/exam/examlist.php?gclid=Cj0KCQiAnNacBhDvARIsABnDa6996HD6vHstBwMXSDM6LBDJq0b88r5rgFzghQyQuNsK3yDJ6Zmlh3saAqXhEALw_wcB) |
-| `Internal activities` | 2022.08.01 ~<br>2022.08.06 | 2022 동의대학교 고교 써머스쿨 교사 | Dong-eui University |
-  | `Certificate` | 2022.10.29 | TopCit 3수준 달성 (545점) | [TOPCIT](https://www.topcit.or.kr/home.do) |
-  | `Certificate` | 2023.09.01 | 정보처리기사 취득 | [Q-net](https://www.q-net.or.kr/man001.do?&gSite=Q&gId=) |
+| `External Activities` | 14.06.09 ~ 14.07.17 | <b>PANTECH</b> Vega Iron Kitkat OS Upgrade Tester <br>(팬텍 베가 아이언 Kitkat OS 업그레이드 테스터) | <b>PANTECH</b> |
+| `Internal Activities` | 21.12.23 ~ 24.02.28 | DEU Computer Software Engineering Lab <br>(컴퓨터소프트웨어공학과 연구실) | DEU |
+| `External Activities` | 22.07.11 ~ 22.10.06 | 2022 블록체인 & 핀테크 개발자 과정 수료 | 부산광역시 일자리경제과 |
+| `Internal Activities` | 22.05.25 | 특허 출원 (공유 기반 스마트 주자창 관리 시스템) | DEU Lab |
+| `Internal Activities` | 22.08.01 ~ 22.08.06 | 2022 동의대학교 고교 써머스쿨 교사 | DEU |
+| `Certificate` | 22.07.22 | ISTQB CTFL 자격증 취득 | [STEN](https://www.sten.or.kr/exam/examlist.php?gclid=Cj0KCQiAnNacBhDvARIsABnDa6996HD6vHstBwMXSDM6LBDJq0b88r5rgFzghQyQuNsK3yDJ6Zmlh3saAqXhEALw_wcB) |
+| `Certificate` | 22.10.29 | TopCit 3수준 달성 (545점) | [TOPCIT](https://www.topcit.or.kr/home.do) |
+| `Certificate` | 23.09.01 | 정보처리기사 취득 | [Q-net](https://www.q-net.or.kr/man001.do?&gSite=Q&gId=) |
+
 
  
 
 </div>
+
+<br>
 
 ## 🎖️ AWARDS (수상 내역) ──
 
@@ -97,11 +102,6 @@
 
 </div>
 
-<!-- ### 💫 Experience
-- **DEU** - *Dong-Eui University* ***Computer Software Engineering(2018~)***
-- **DEU LAB** - *Dong-Eui University* ***Lab(2021.12.23~)***
-- **PANTECH** - *Vega Iron* ***Kitkat OS*** *Upgrade* ***Tester(2014.06.09 ~ 2014.07.17)***
-<br/>   -->
 
 <br>
 
@@ -112,43 +112,3 @@
 ![dongdong99's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dongdong99)
 
 </div>
-<!-- 
-<table>
-   <tr>
-     <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=donghyeon0915" align = "right"; width="90%">    
-     </td>
-     <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donghyeon0915&hide_border=true&layout=compact" width: "100%" />    
-     </td>
-</table>
-<br/>   -->
-
-
-<!-- ## :gem: Problem Solve Stats  
-
-
-<p align="center">
-   <a href ="https://solved.ac/dongdong99"><img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=dongdong99"></a>
-</p>
-
-<p align="center">
-   <a href ="https://solved.ac/dongdong99"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dongdong99"></a>
-</p>
-<br/>   -->
-
-<!--
-**Donghyeon0915/Donghyeon0915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ...
--->
