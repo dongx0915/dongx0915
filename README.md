@@ -107,7 +107,15 @@
 ## :trophy: STATS ──
 
 <div align="center">
-        
-![dongdong99's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dongdong99)
+
+<p align="center">
+  <a href ="https://solved.ac/dongdong99"><img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=dongdong99"></a>
+</p>
+
+<p align="center">
+   <a href ="https://solved.ac/dongdong99"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dongdong99"></a>
+</p>
+
+<!-- ![dongdong99's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dongdong99) -->
 
 </div>
