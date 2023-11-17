@@ -58,9 +58,9 @@
 | `Java Swing` | 22.03.15 ~ 22.06.12 | <b>[ WePLi ](https://github.com/DeuWePLi/WePLi)</b> <br>플레이리스트 공유 플랫폼 | DEU |
 | `Web` | 22.03.01 ~ 22.06.11 | <b>[ Manito ]</b> <br>위치 기반 익명 도움 서비스 | DEU  |
 
-  
-
 </div>
+
+<br>
 
 ## 🏃‍♂️ ACTIVITIES **(활동)** ──
 
@@ -71,18 +71,28 @@
 | `External` | 14.06.09 ~ 14.07.17 | <b>PANTECH</b> **팬텍 베가 아이언 Kitkat OS 업그레이드 테스터**<br>(Vega Iron Kitkat OS Upgrade Tester) | <b>PANTECH</b> |
 |`External` | 22.07.11 ~ 22.10.06 | 2022 블록체인 & 핀테크 개발자 과정 수료 | 부산광역시 일자리경제과 |
 | `Internal` | 21.12.23 ~ 23.02.28 | 컴퓨터소프트웨어공학과 연구실<br>(DEU Computer Software Engineering Lab) | DEU |
-| `Internal` | 22.05.25 | 특허 출원 (공유 기반 스마트 주자창 관리 시스템) | DEU |
-| `Internal` | 23.10.18 | 특허 출원 (자율주차용 이동장치를 활용한 스마트 주차장 시스템) | DEU |
 | `Internal` | 22.08.01 ~ 22.08.06 | 2022 동의대학교 고교 써머스쿨 교사 | DEU |
-| `Certificate` | 22.07.22 | ISTQB CTFL 자격증 취득 | [STEN](https://www.sten.or.kr/exam/examlist.php?gclid=Cj0KCQiAnNacBhDvARIsABnDa6996HD6vHstBwMXSDM6LBDJq0b88r5rgFzghQyQuNsK3yDJ6Zmlh3saAqXhEALw_wcB) |
-| `Certificate` | 22.10.29 | TopCit 3수준 달성 (545점) | [TOPCIT](https://www.topcit.or.kr/home.do) |
-| `Certificate` | 23.09.01 | 정보처리기사 취득 | [Q-net](https://www.q-net.or.kr/man001.do?&gSite=Q&gId=) |
-
- 
 
 </div>
 
 <br>
+
+## 📑 Certifications **(자격증 및 특허)** ──
+
+<div align="center">
+  
+| Type | Date | Contents | Organization |
+| :---: | :--- | --- | :---: |
+| `Patent` | 22.05.25 | 공유 기반 스마트 주자창 관리 시스템 (10-2022-0064219)| DEU |
+| `Patent` | 23.10.18 | 자율주차용 이동장치를 활용한 스마트 주차장 시스템 (10-2023-0069932) | DEU |
+| `Certificate` | 22.07.22 | ISTQB CTFL 자격증 취득 | [STEN](https://www.sten.or.kr/exam/examlist.php?gclid=Cj0KCQiAnNacBhDvARIsABnDa6996HD6vHstBwMXSDM6LBDJq0b88r5rgFzghQyQuNsK3yDJ6Zmlh3saAqXhEALw_wcB) |
+| `Certificate` | 22.10.29 | TopCit 3수준 달성 (545점) | [TOPCIT](https://www.topcit.or.kr/home.do) |
+| `Certificate` | 23.09.01 | 정보처리기사 취득 | [Q-net](https://www.q-net.or.kr/man001.do?&gSite=Q&gId=) |
+
+</div>
+
+<br>
+
 
 ## 🎖️ AWARDS (수상 내역) ──
 
