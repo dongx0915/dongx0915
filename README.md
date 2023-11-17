@@ -31,21 +31,6 @@
                 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram/>
         </a>  
  </p>
- 
-<!-- <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BC5F7&center=true&multiline=true&width=435&lines=Donghyeon%60s+GitHub+%E2%AD%90" alt="Typing SVG" /></a>
-</p> -->
-
-
- 
-<!-- 백준 스탯 -->
-<!-- <p align="center">
-   <a href ="https://solved.ac/dongdong99"><img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=dongdong99"></a>
-</p> -->
-
-<!-- <p align="center">
-   <a href ="https://solved.ac/dongdong99"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dongdong99"></a>
-</p> -->
 
 <br>
 
