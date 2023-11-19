@@ -58,8 +58,8 @@
 | Type | Date | Contents | Organization |
 | :---: | :--- | --- | :---: |
 | `External` | 14.06.09 ~ 14.07.17 | <b>PANTECH</b> **팬텍 베가 아이언 Kitkat OS 업그레이드 테스터**<br>(Vega Iron Kitkat OS Upgrade Tester) | <b>PANTECH</b> |
-|`External` | 22.07.11 ~ 22.10.06 | 2022 블록체인 & 핀테크 개발자 과정 수료 | 부산광역시 일자리경제과 |
 | `Internal` | 21.12.23 ~ 23.02.28 | 컴퓨터소프트웨어공학과 연구실<br>(DEU Computer Software Engineering Lab) | DEU |
+| `External` | 22.07.11 ~ 22.10.06 | 2022 블록체인 & 핀테크 개발자 과정 수료 | 부산광역시 일자리경제과 |
 | `Internal` | 22.08.01 ~ 22.08.06 | 2022 동의대학교 고교 써머스쿨 교사 | DEU |
 
 </div>
