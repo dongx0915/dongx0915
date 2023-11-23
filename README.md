@@ -66,7 +66,7 @@
 
 <br>
 
-## 📑 Certifications **(자격증 및 특허)** ──
+## 📑 Certifications **(특허 및 자격증)** ──
 
 <div align="center">
   
