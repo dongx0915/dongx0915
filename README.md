@@ -72,8 +72,8 @@
   
 | Type | Date | Contents | Organization |
 | :---: | :--- | --- | :---: |
-| `Patent` | 22.05.25 | 공유 기반 스마트 주자창 관리 시스템 (10-2022-0064219)| DEU |
-| `Patent` | 23.10.18 | 자율주차용 이동장치를 활용한 스마트 주차장 시스템 (10-2023-0069932) | DEU |
+| `Patent` | 22.05.25 | 공유 기반 스마트 주자창 관리 시스템<br>(10-2022-0064219)| DEU |
+| `Patent` | 23.10.18 | 자율주차용 이동장치를 활용한 스마트 주차장 시스템<br>(10-2023-0069932) | DEU |
 | `Certificate` | 22.07.22 | ISTQB CTFL 자격증 취득 | [STEN](https://www.sten.or.kr/exam/examlist.php?gclid=Cj0KCQiAnNacBhDvARIsABnDa6996HD6vHstBwMXSDM6LBDJq0b88r5rgFzghQyQuNsK3yDJ6Zmlh3saAqXhEALw_wcB) |
 | `Certificate` | 22.10.29 | TopCit 3수준 달성 (545점) | [TOPCIT](https://www.topcit.or.kr/home.do) |
 | `Certificate` | 23.09.01 | 정보처리기사 취득 | [Q-net](https://www.q-net.or.kr/man001.do?&gSite=Q&gId=) |
@@ -92,7 +92,7 @@
 | `2019.08.01` | 2019년도 1학기 학업성적 우등상             | 우등상 (총장상)   | DEU |
 | `2022.08.03` | 2022년도 1학기 학업성적 최우등상           | 최우등상 (총장상)  | DEU |
 | `2023.02.10` | 2022년도 2학기 학업성적 최우등상            | 최우등상 (총장상) | DEU |
-| `2022.03.03` | ICT & 스마트 헬스케어 기반 융복합 스포츠산업 아이디어 경진대회 | 상위 10팀 선정 | [부산테크노파크](https://www.btp.or.kr/?action=BD0000M&pagecode=P000000296&command=View&idx=13672&language=KR) |
+| `2022.03.03` | ICT & 스마트 헬스케어 기반 융복합 스포츠산업<br>아이디어 경진대회 | 상위 10팀 선정 | [부산테크노파크](https://www.btp.or.kr/?action=BD0000M&pagecode=P000000296&command=View&idx=13672&language=KR) |
 | `2022.10.29` | TopCit 최고득점상                       | 대학특별상 (총장상) | [TOPCIT](https://www.topcit.or.kr/home.do) |
 | `2022.11.25` | 2022 통합 성과 경진대회                  | 장려상 (총장상)   | DEU |
 | `2022.12.08` | 2022 LINC 3.0 캡스톤 디자인 경진대회      | 우수상 (총장상)   | LINC 3.0 |
