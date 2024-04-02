@@ -55,21 +55,6 @@
 
 <br>
 
-## 🏃‍♂️ ACTIVITIES **(활동)** ──
-
-<div align="center">
-  
-| Type | Date | Contents | Organization |
-| :---: | :--- | --- | :---: |
-| `External` | 14.06.09 ~ 14.07.17 | <b>PANTECH</b> **팬텍 베가 아이언 Kitkat OS 업그레이드 테스터**<br>(Vega Iron Kitkat OS Upgrade Tester) | <b>PANTECH</b> |
-| `Internal` | 21.12.23 ~ 23.02.28 | 컴퓨터소프트웨어공학과 연구실<br>(DEU Computer Software Engineering Lab) | DEU |
-| `External` | 22.07.11 ~ 22.10.06 | 2022 블록체인 & 핀테크 개발자 과정 수료 | 부산광역시 일자리경제과 |
-| `Internal` | 22.08.01 ~ 22.08.06 | 2022 동의대학교 고교 써머스쿨 교사 | DEU |
-
-</div>
-
-<br>
-
 ## 📑 Certifications **(특허 및 자격증)** ──
 
 <div align="center">
@@ -106,6 +91,21 @@
 | `2022.12.08` | 2022 LINC 3.0 캡스톤 디자인 경진대회      | 우수상 (총장상)   | LINC 3.0 |
 | `2023.09.21` | 2023 의료. 보건. 생활대학 아이디어 & 발명 경진대회 | 2등상 (산학협력단장상) | DEU |
 | `2023.10.12` | 2023년 한이음 ICT멘토링 공모전 | 한국정보산업연합회장상 | 과학기술정보통신부 |
+
+</div>
+
+<br>
+
+## 🏃‍♂️ ACTIVITIES **(활동)** ──
+
+<div align="center">
+  
+| Type | Date | Contents | Organization |
+| :---: | :--- | --- | :---: |
+| `External` | 14.06.09 ~ 14.07.17 | <b>PANTECH</b> **팬텍 베가 아이언 Kitkat OS 업그레이드 테스터**<br>(Vega Iron Kitkat OS Upgrade Tester) | <b>PANTECH</b> |
+| `Internal` | 21.12.23 ~ 23.02.28 | 컴퓨터소프트웨어공학과 연구실<br>(DEU Computer Software Engineering Lab) | DEU |
+| `External` | 22.07.11 ~ 22.10.06 | 2022 블록체인 & 핀테크 개발자 과정 수료 | 부산광역시 일자리경제과 |
+| `Internal` | 22.08.01 ~ 22.08.06 | 2022 동의대학교 고교 써머스쿨 교사 | DEU |
 
 </div>
 
