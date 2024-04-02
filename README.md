@@ -35,10 +35,16 @@
 <br>
 
 
-|   Runnect   | Smiley | ToothFairy | Lab | NCKLBHub | WePLi |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <img width="75" src="https://github.com/Donghyeon0915/Donghyeon0915/assets/63500239/14b90c92-68aa-43d8-891e-7384e1d60c30"> | <img width="75" src="https://avatars.githubusercontent.com/u/128583580?s=400&u=b45381b520339b0d5ee6e1e9d3a221e110cfa6cb&v=4"> | <img width="75" src="https://github.com/Donghyeon0915/Donghyeon0915/assets/63500239/d57f682c-3f4e-459f-acdd-c38c39673e1d">| <img width="75" src="https://github.com/Donghyeon0915/Donghyeon0915/assets/63500239/a05e49ea-ec61-4a0c-85aa-6aa5c86860d0"> | <img width="75" src="https://github.com/Donghyeon0915/Donghyeon0915/assets/63500239/6184186f-a7b8-4ca2-8b38-398898499549"> | <img width="75" src="https://avatars.githubusercontent.com/u/105561467?s=400&u=a7f76f33b86dbb4a60d24a760bf315852bb0fe12&v=4"> |
-| 데일리 러닝 앱, 러넥트(Runnect) | 스마트 교정 관리 시스템 (ToothFairy 개선 버전) | 스마트 주걱턱 교정 장치 & 교정 관리 시스템  | 실습실 예약 시스템 | 백준 자동 푸시 익스텐션(Auto Git Push for BOJ) | 플레이리스트 공유 플랫폼 |
+|   Runnect   | Smiley | ToothFairy |
+| :---: | :---: | :---: |
+| <img width="100" src="https://github.com/Donghyeon0915/Donghyeon0915/assets/63500239/14b90c92-68aa-43d8-891e-7384e1d60c30"> | <img width="100" src="https://avatars.githubusercontent.com/u/128583580?s=400&u=b45381b520339b0d5ee6e1e9d3a221e110cfa6cb&v=4"> | <img width="100" src="https://github.com/Donghyeon0915/Donghyeon0915/assets/63500239/d57f682c-3f4e-459f-acdd-c38c39673e1d">|
+| 데일리 러닝 앱,<br>러넥트(Runnect) | 스마트 교정 관리 시스템<br>(ToothFairy 개선 버전) | 스마트 주걱턱 교정 장치<br>& 교정 관리 시스템  |
+
+
+|  Lab | NCKLBHub | WePLi |
+| :---: | :---: | :---: |
+| <img width="100" src="https://github.com/Donghyeon0915/Donghyeon0915/assets/63500239/a05e49ea-ec61-4a0c-85aa-6aa5c86860d0"> | <img width="100" src="https://github.com/Donghyeon0915/Donghyeon0915/assets/63500239/6184186f-a7b8-4ca2-8b38-398898499549"> | <img width="100" src="https://avatars.githubusercontent.com/u/105561467?s=400&u=a7f76f33b86dbb4a60d24a760bf315852bb0fe12&v=4"> |
+| 실습실 예약 시스템 | 백준 자동 푸시 익스텐션<br>(Auto Git Push for BOJ) | 플레이리스트 공유 플랫폼 |
 
 
 ## 🖥️ PROJECTS (프로젝트) ──
