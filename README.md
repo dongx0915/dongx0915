@@ -35,30 +35,19 @@
 <br>
 
 
-|   Runnect   | Smiley | ToothFairy |
-| :---: | :---: | :---: |
-| <img width="100" src="https://github.com/Donghyeon0915/Donghyeon0915/assets/63500239/14b90c92-68aa-43d8-891e-7384e1d60c30"> | <img width="100" src="https://avatars.githubusercontent.com/u/128583580?s=400&u=b45381b520339b0d5ee6e1e9d3a221e110cfa6cb&v=4"> | <img width="100" src="https://github.com/Donghyeon0915/Donghyeon0915/assets/63500239/d57f682c-3f4e-459f-acdd-c38c39673e1d">|
-| 데일리 러닝 앱,<br>러넥트(Runnect) | 스마트 교정 관리 시스템<br>(ToothFairy 개선 버전) | 스마트 주걱턱 교정 장치<br>& 교정 관리 시스템  |
-
-
-|  Lab | NCKLBHub | WePLi |
-| :---: | :---: | :---: |
-| <img width="100" src="https://github.com/Donghyeon0915/Donghyeon0915/assets/63500239/a05e49ea-ec61-4a0c-85aa-6aa5c86860d0"> | <img width="100" src="https://github.com/Donghyeon0915/Donghyeon0915/assets/63500239/6184186f-a7b8-4ca2-8b38-398898499549"> | <img width="100" src="https://avatars.githubusercontent.com/u/105561467?s=400&u=a7f76f33b86dbb4a60d24a760bf315852bb0fe12&v=4"> |
-| 실습실 예약 시스템 | 백준 자동 푸시 익스텐션<br>(Auto Git Push for BOJ) | 플레이리스트 공유 플랫폼 |
-
-
 ## 🖥️ PROJECTS (프로젝트) ──
 
 <div align="center">
-  
-| Type | Date | Contents | Organization |
-| :---: | :--- | :--- | :---: |
-| `Android` | 23.03.01 ~ | <b>[ Smi)ey ](https://github.com/DEU-Smiley/Smiley-Android-App)</b> <br> 스마트 교정 관리 시스템 (***ToothFairy*** 개선 버전) | 한이음(Hanium) |
-| `Android` | 22.07.01 ~ 22.12.30| <b>[ ToothFairy ](https://github.com/DEU-ToothFairy/ToothFairy_Client)</b> <br>스마트 주걱턱 교정 장치 & 교정 관리 시스템  | DEU Lab |
-| `Android` | 22.09.08 ~ 22.12.02 | <b>[ LAB ](https://github.com/DEU-Lab-Reservation-System/LAB-Android-App)</b> <br> 동의대학교 실습실 예약 시스템 | DEU |
-| `Chrome Extension` | 23.01.01 ~ 23.01.08 | <b>[ NKLCBHub ](https://github.com/Donghyeon0915/NKLCB_Hub)</b> <br> 백준 자동 푸시 익스텐션(Auto Git Push for BOJ) | - |
-| `Java Swing` | 22.03.15 ~ 22.06.12 | <b>[ WePLi ](https://github.com/DeuWePLi/WePLi)</b> <br>플레이리스트 공유 플랫폼 | DEU |
-| `Web` | 22.03.01 ~ 22.06.11 | <b>[ Manito ]</b> <br>위치 기반 익명 도움 서비스 | DEU  |
+        
+|   Runnect   | Smiley | ToothFairy |
+| :---: | :---: | :---: |
+| <img width="100" src="https://github.com/Donghyeon0915/Donghyeon0915/assets/63500239/14b90c92-68aa-43d8-891e-7384e1d60c30"> | <img width="100" src="https://avatars.githubusercontent.com/u/128583580?s=400&u=b45381b520339b0d5ee6e1e9d3a221e110cfa6cb&v=4"> | <img width="100" src="https://github.com/Donghyeon0915/Donghyeon0915/assets/63500239/d57f682c-3f4e-459f-acdd-c38c39673e1d">|
+| ⠀⠀데일리 러닝 앱, ⠀⠀<br>러넥트(Runnect) | 스마트 교정 관리앱<br>(ToothFairy 개선 버전) |⠀스마트 주걱턱 교정 장치 <br>& 교정 관리 시스템  |
+
+|  Lab | NCKLBHub | WePLi |
+| :---: | :---: | :---: |
+| <img width="100" src="https://github.com/Donghyeon0915/Donghyeon0915/assets/63500239/a05e49ea-ec61-4a0c-85aa-6aa5c86860d0"> | <img width="100" src="https://github.com/Donghyeon0915/Donghyeon0915/assets/63500239/f31cb12c-827f-4223-8462-e62ce7806068"> | <img width="100" src="https://avatars.githubusercontent.com/u/105561467?s=400&u=a7f76f33b86dbb4a60d24a760bf315852bb0fe12&v=4"> |
+| ⠀실습실 예약 시스템 ⠀|백준 자동 푸시 익스텐션<br>(Push for BOJ) | 플레이리스트 공유 플랫폼 |
 
 </div>
 
