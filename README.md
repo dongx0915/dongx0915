@@ -39,7 +39,7 @@
         
 |   [Runnect](https://zrr.kr/D3oa)   | [Smiley](https://zrr.kr/aFbp) | [ToothFairy](https://zrr.kr/hWLp) |
 | :---: | :---: | :---: |
-| <img width="50" src="https://zrr.kr/4yl3"> | <img width="100" src="https://zrr.kr/zM32q"> | <img width="100" src="https://buly.kr/D3bwGvr">|
+| <img width="75" src="https://zrr.kr/4yl3"> | <img width="75" src="https://zrr.kr/zM32q"> | <img width="75" src="https://buly.kr/D3bwGvr">|
 | ⠀⠀데일리 러닝 앱, ⠀⠀<br>러넥트(Runnect) | 스마트 교정 관리앱<br>(ToothFairy 개선 버전) | ⠀실습실 예약 시스템 ⠀|
 | ⠀⠀⠀`23.11.28 ~ `⠀⠀⠀| `23.03.01 ~ 23.06.20` | `22.07.01 ~ 22.12.30` |
 
