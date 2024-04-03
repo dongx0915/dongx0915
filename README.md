@@ -45,7 +45,7 @@
 
 |  [Lab](https://buly.kr/4bfZBol) | [NCKLBHub](https://buly.kr/2fbEOqA) | [WePLi](https://buly.kr/9iDXdTv) |
 | :---: | :---: | :---: |
-| <img width="100" src="https://buly.kr/1n1RUj4"> | <img width="100" src="https://buly.kr/5fA74g3"> | <img width="100" src="https://zrr.kr/ujxq"> |
+| <img width="75" src="https://buly.kr/1n1RUj4"> | <img width="75" src="https://buly.kr/5fA74g3"> | <img width="75" src="https://zrr.kr/ujxq"> |
 |⠀스마트 주걱턱 교정 장치 <br>& 교정 관리 시스템  |백준 자동 푸시 익스텐션 | 플레이리스트 공유 플랫폼 |
 |`22.09.08 ~ 22.12.02`|`23.01.01 ~ 23.01.08`|`22.03.15 ~ 22.06.12`|
 
