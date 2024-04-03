@@ -12,23 +12,21 @@
 </h1>
 
 <div align="center" style="display:flex">
-        <a href="https://git.io/typing-svg"><img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=10&color=7BC5F7&center=true&multiline=true&width=435&height=100&lines=%E2%94%8C%E2%94%80+me+%E2%94%80%E2%94%80%E2%94%90+%E3%80%80++%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80;donghyeon0915+%40+gmail.com;%E2%94%94%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+email+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%98;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80;%E3%80%80"
-        alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://zrr.kr/V9xC" alt="Typing SVG" /></a>
 </div>
 
 <p align="center"
         <a href="https://github.com/Donghyeon0915" target="_blank">
-                <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github/>
+                <img src="https://zrr.kr/JkGr" alt=github/>
         </a>
         <a href="https://github.com/Donghyeon0915" target="_blank">
-                <img src=https://img.shields.io/badge/git-%231E77B5.svg?&style=for-the-badge&logo=git&logoColor=white alt=linkedin/>
+                <img src="https://zrr.kr/wjLwc" alt=linkedin/>
         </a>
         <a href="https://www.facebook.com/profile.php?id=100007219727232" target="_blank">
-                <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook/>
+                <img src="https://zrr.kr/v2tO" alt=facebook/>
         </a>
         <a href="https://www.instagram.com/dongx._.2/" target="_blank">
-                <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram/>
+                <img src="https://zrr.kr/8faN" alt=instagram/>
         </a>  
  </p>
 
@@ -63,9 +61,9 @@
 | :---: | :--- | --- | :---: |
 | `Patent` | 22.05.25 | 공유 기반 스마트 주자창 관리 시스템<br>(10-2022-0064219)| DEU |
 | `Patent` | 23.10.18 | 자율주차용 이동장치를 활용한 스마트 주차장 시스템<br>(10-2023-0069932) | DEU |
-| `Certificate` | 22.07.22 | ISTQB CTFL 자격증 취득 | [STEN](https://www.sten.or.kr/exam/examlist.php?gclid=Cj0KCQiAnNacBhDvARIsABnDa6996HD6vHstBwMXSDM6LBDJq0b88r5rgFzghQyQuNsK3yDJ6Zmlh3saAqXhEALw_wcB) |
-| `Certificate` | 22.10.29 | TopCit 3수준 달성 (545점) | [TOPCIT](https://www.topcit.or.kr/home.do) |
-| `Certificate` | 23.09.01 | 정보처리기사 취득 | [Q-net](https://www.q-net.or.kr/man001.do?&gSite=Q&gId=) |
+| `Certificate` | 22.07.22 | ISTQB CTFL 자격증 취득 | [STEN](https://zrr.kr/MJ72) |
+| `Certificate` | 22.10.29 | TopCit 3수준 달성 (545점) | [TOPCIT](https://zrr.kr/4vc7) |
+| `Certificate` | 23.09.01 | 정보처리기사 취득 | [Q-net](https://zrr.kr/XqVY) |
 
 </div>
 
@@ -76,21 +74,21 @@
 
 <div align="center">
         
-| Date       | Name    | Award | Organization     |
-|:------------:|----------|---------|:------------------:|
-| `2019.08.01` | 2019년도 1학기 학업성적 우등상             | 우등상 (총장상)   | DEU |
-| `2022.08.03` | 2022년도 1학기 학업성적 최우등상           | 최우등상 (총장상)  | DEU |
-| `2023.02.10` | 2022년도 2학기 학업성적 최우등상            | 최우등상 (총장상) | DEU |
-| `2024.02.22` | 2024년도 컴퓨터소프트웨어공학과 **수석** 졸업      | 최우등상 (총장상) | DEU |
+| Date         | Name                                  | Award         | Organization |
+|:------------:|---------------------------------------|---------------|:------------:|
+| `2019.08.01` | 2019년도 1학기 학업성적 우등상              | 우등상 (총장상)   | DEU          |
+| `2022.08.03` | 2022년도 1학기 학업성적 최우등상            | 최우등상 (총장상)  | DEU          |
+| `2023.02.10` | 2022년도 2학기 학업성적 최우등상            | 최우등상 (총장상)  | DEU          | 
+| `2024.02.22` | 2024년도 컴퓨터소프트웨어공학과 **수석** 졸업  | 최우등상 (총장상)  | DEU          |
 
-| Date       | Name    | Award | Organization     |
-|:------------:|----------|---------|:------------------:|
-| `2022.03.03` | ICT & 스마트 헬스케어 기반 융복합 스포츠산업<br>아이디어 경진대회 | 상위 10팀 선정 | [부산테크노파크](https://www.btp.or.kr/?action=BD0000M&pagecode=P000000296&command=View&idx=13672&language=KR) |
-| `2022.10.29` | TopCit 최고 득점                       | 대학특별상 (총장상) | [TOPCIT](https://www.topcit.or.kr/home.do) |
-| `2022.11.25` | 2022 통합 성과 경진대회                  | 장려상 (총장상)   | DEU |
-| `2022.12.08` | 2022 LINC 3.0 캡스톤 디자인 경진대회      | 우수상 (총장상)   | LINC 3.0 |
-| `2023.09.21` | 2023 의료. 보건. 생활대학 아이디어 & 발명 경진대회 | 2등상 (산학협력단장상) | DEU |
-| `2023.10.12` | 2023년 한이음 ICT멘토링 공모전 | 한국정보산업연합회장상 | 과학기술정보통신부 |
+| Date         | Name                                                 | Award             | Organization                      |
+|:------------:|------------------------------------------------------|-------------------|:---------------------------------:|
+| `2022.03.03` | ICT & 스마트 헬스케어 기반 융복합 스포츠산업<br>아이디어 경진대회  | 상위 10팀 선정       | [부산테크노파크](https://zrr.kr/DP5G) |
+| `2022.10.29` | TopCit 최고 득점                                       | 대학특별상 (총장상)    | [TOPCIT](https://zrr.kr/Zsxk)     |
+| `2022.11.25` | 2022 통합 성과 경진대회                                  | 장려상 (총장상)       | DEU                               |
+| `2022.12.08` | 2022 LINC 3.0 캡스톤 디자인 경진대회                      | 우수상 (총장상)       | LINC 3.0                          |
+| `2023.09.21` | 2023 의료. 보건. 생활대학 아이디어 & 발명 경진대회             | 2등상 (산학협력단장상) | DEU                               |
+| `2023.10.12` | 2023년 한이음 ICT멘토링 공모전                            | 한국정보산업연합회장상   | 과학기술정보통신부                     |
 
 </div>
 
@@ -100,12 +98,12 @@
 
 <div align="center">
   
-| Type | Date | Contents | Organization |
-| :---: | :--- | --- | :---: |
-| `External` | 14.06.09 ~ 14.07.17 | <b>PANTECH</b> **팬텍 베가 아이언 Kitkat OS 업그레이드 테스터**<br>(Vega Iron Kitkat OS Upgrade Tester) | <b>PANTECH</b> |
-| `Internal` | 21.12.23 ~ 23.02.28 | 컴퓨터소프트웨어공학과 연구실<br>(DEU Computer Software Engineering Lab) | DEU |
-| `External` | 22.07.11 ~ 22.10.06 | 2022 블록체인 & 핀테크 개발자 과정 수료 | 부산광역시 일자리경제과 |
-| `Internal` | 22.08.01 ~ 22.08.06 | 2022 동의대학교 고교 써머스쿨 교사 | DEU |
+| Type       | Date                | Contents                                                                                        | Organization      |
+| :--------: | :------------------ | ----------------------------------------------------------------------------------------------- | :---------------: |
+| `External` | 14.06.09 ~ 14.07.17 | <b>PANTECH</b> **팬텍 베가 아이언 Kitkat OS 업그레이드 테스터**<br>(Vega Iron Kitkat OS Upgrade Tester) | <b>PANTECH</b>    |
+| `Internal` | 21.12.23 ~ 23.02.28 | 컴퓨터소프트웨어공학과 연구실<br>(DEU Computer Software Engineering Lab)                                | DEU               |
+| `External` | 22.07.11 ~ 22.10.06 | 2022 블록체인 & 핀테크 개발자 과정 수료                                                                 | 부산광역시 일자리경제과 |
+| `Internal` | 22.08.01 ~ 22.08.06 | 2022 동의대학교 고교 써머스쿨 교사                                                                     | DEU               |
 
 </div>
 
