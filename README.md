@@ -1,7 +1,7 @@
 <h1 align="center">
         <p align="center">
-                <a href ="https://github.com/Donghyeon0915">
-                        <img src="https://komarev.com/ghpvc/?username=Donghyeon0915&&style=flat" style="vertical-align: middle;" />
+                <a href ="https://github.com/dongx0915">
+                        <img src="https://komarev.com/ghpvc/?username=dongx0915&&style=flat" style="vertical-align: middle;" />
                 </a>
                 <a href ="https://solved.ac/dongdong99">
                         <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dongdong99" style="vertical-align: middle;">
@@ -16,10 +16,10 @@
 </div>
 
 <p align="center"
-        <a href="https://github.com/Donghyeon0915" target="_blank">
+        <a href="https://github.com/dongx0915" target="_blank">
                 <img src="https://zrr.kr/JkGr" alt=github/>
         </a>
-        <a href="https://github.com/Donghyeon0915" target="_blank">
+        <a href="https://github.com/dongx0915" target="_blank">
                 <img src="https://zrr.kr/wjLwc" alt=linkedin/>
         </a>
         <a href="https://www.facebook.com/profile.php?id=100007219727232" target="_blank">
