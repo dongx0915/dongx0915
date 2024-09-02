@@ -39,13 +39,13 @@
         
 |   [Runnect](https://zrr.kr/D3oa)   | [Smiley](https://zrr.kr/aFbp) | [Lab](https://buly.kr/4bfZBol) |
 | :---: | :---: | :---: |
-| <img width="75" src="https://zrr.kr/4yl3"> | <img width="75" src="https://zrr.kr/zM32q"> | <img width="75" src="https://buly.kr/D3bwGvr">|
+| <img width="75" src="https://github.com/user-attachments/assets/3e1151ca-c342-4f47-8d1f-8b5f394f2873"> | <img width="75" src="https://github.com/user-attachments/assets/dfce8a01-01ce-44fa-90b6-4b17a6114f20"> | <img width="75" src="https://github.com/user-attachments/assets/77ad05bc-98f2-4a8e-8864-f15cc319c142">|
 | ⠀⠀데일리 러닝 앱, ⠀⠀<br>러넥트(Runnect) | 스마트 교정 관리앱<br>(ToothFairy 개선 버전) | ⠀실습실 예약 시스템 ⠀|
 | ⠀⠀⠀`23.11.28 ~ `⠀⠀⠀| `23.03.01 ~ 23.06.20` | `22.07.01 ~ 22.12.30` |
 
 |  [ToothFairy](https://zrr.kr/hWLp) | [NCKLBHub](https://buly.kr/2fbEOqA) | [WePLi](https://buly.kr/9iDXdTv) |
 | :---: | :---: | :---: |
-| <img width="75" src="https://buly.kr/1n1RUj4"> | <img width="75" src="https://buly.kr/5fA74g3"> | <img width="75" src="https://zrr.kr/ujxq"> |
+| <img width="75" src="https://github.com/user-attachments/assets/dc4f8b57-30e3-41a0-bb3f-14a5e3cb09a9"> | <img width="75" src="https://github.com/user-attachments/assets/6a93bfd0-e923-4475-a7fd-0f0687507717"> | <img width="75" src="https://github.com/user-attachments/assets/98b85a2b-4c10-4be0-8872-e6933a809297"> |
 |⠀스마트 주걱턱 교정 장치 <br>& 교정 관리 시스템  |백준 자동 푸시 익스텐션 | 플레이리스트 공유 플랫폼 |
 |`22.09.08 ~ 22.12.02`|`23.01.01 ~ 23.01.08`|`22.03.15 ~ 22.06.12`|
 
