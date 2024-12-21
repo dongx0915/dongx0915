@@ -22,9 +22,6 @@
         <a href="https://github.com/dongx0915" target="_blank">
                 <img src="https://zrr.kr/wjLwc" alt=linkedin/>
         </a>
-        <a href="https://www.facebook.com/profile.php?id=100007219727232" target="_blank">
-                <img src="https://zrr.kr/v2tO" alt=facebook/>
-        </a>
         <a href="https://www.instagram.com/dongx._.2/" target="_blank">
                 <img src="https://zrr.kr/8faN" alt=instagram/>
         </a>  
