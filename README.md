@@ -31,7 +31,7 @@
 
 <div align="center">
         
-|   [Runnect](https://github.com/Runnect/Runnect-Android)   | [Smiley](https://github.com/DEU-Smiley/Smiley-Android-App) | [Lab](https://buly.kr/4bfZBol) |
+|   [Runnect](https://github.com/Runnect/Runnect-Android)   | [Smiley](https://github.com/DEU-Smiley/Smiley-Android-App) | [Lab](https://github.com/DEU-Lab-Reservation-System/LAB-Android-App?tab=readme-ov-file) |
 | :---: | :---: | :---: |
 | <img width="75" src="https://github.com/user-attachments/assets/3e1151ca-c342-4f47-8d1f-8b5f394f2873"> | <img width="75" src="https://github.com/user-attachments/assets/dfce8a01-01ce-44fa-90b6-4b17a6114f20"> | <img width="75" src="https://github.com/user-attachments/assets/77ad05bc-98f2-4a8e-8864-f15cc319c142">|
 | ⠀⠀데일리 러닝 앱, ⠀⠀<br>러넥트(Runnect) | 스마트 교정 관리앱<br>(ToothFairy 개선 버전) | ⠀실습실 예약 시스템 ⠀|
