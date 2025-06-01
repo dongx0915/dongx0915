@@ -36,7 +36,7 @@
 | :---: | :---: | :---: |
 | <img width="75" src="https://github.com/user-attachments/assets/98b85a2b-4c10-4be0-8872-e6933a809297"> | <img width="75" src="https://github.com/user-attachments/assets/3e1151ca-c342-4f47-8d1f-8b5f394f2873"> | <img width="75" src="https://github.com/user-attachments/assets/dfce8a01-01ce-44fa-90b6-4b17a6114f20"> |
 | 플레이리스트 공유 플랫폼 | 데일리 러닝 앱, <br>러넥트(Runnect) | 스마트 교정 관리앱<br>(ToothFairy 개선 버전) |
-| ⠀⠀⠀`24.05.26 ~ `⠀⠀⠀| `23.11.28 ~ 24.11.28` | `23.03.01 ~ 23.06.20` |
+| ⠀⠀⠀`24.05.16 ~ `⠀⠀⠀| `23.11.28 ~ 24.07.10` | `23.03.01 ~ 23.06.20` |
 
 | [ToothFairy](https://github.com/DEU-ToothFairy/ToothFairy_Client)  |  [Lab](https://github.com/DEU-Lab-Reservation-System/LAB-Android-App?tab=readme-ov-file)| [NCKLBHub](https://github.com/dongx0915/NKLCB_Hub) |
 | :---: | :---: | :---: |
