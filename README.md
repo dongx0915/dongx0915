@@ -37,7 +37,7 @@
 | ⠀⠀데일리 러닝 앱, ⠀⠀<br>러넥트(Runnect) | 스마트 교정 관리앱<br>(ToothFairy 개선 버전) | ⠀실습실 예약 시스템 ⠀|
 | ⠀⠀⠀`23.11.28 ~ `⠀⠀⠀| `23.03.01 ~ 23.06.20` | `22.07.01 ~ 22.12.30` |
 
-|  [ToothFairy](https://github.com/DEU-ToothFairy/ToothFairy_Client) | [NCKLBHub](https://github.com/dongx0915/NKLCB_Hub) | [WePLi](https://buly.kr/9iDXdTv) |
+|  [ToothFairy](https://github.com/DEU-ToothFairy/ToothFairy_Client) | [NCKLBHub](https://github.com/dongx0915/NKLCB_Hub) | [WePLi](https://github.com/dongx0915/WePLi-Android) |
 | :---: | :---: | :---: |
 | <img width="75" src="https://github.com/user-attachments/assets/dc4f8b57-30e3-41a0-bb3f-14a5e3cb09a9"> | <img width="75" src="https://github.com/user-attachments/assets/6a93bfd0-e923-4475-a7fd-0f0687507717"> | <img width="75" src="https://github.com/user-attachments/assets/98b85a2b-4c10-4be0-8872-e6933a809297"> |
 |⠀스마트 주걱턱 교정 장치 <br>& 교정 관리 시스템  |백준 자동 푸시 익스텐션 | 플레이리스트 공유 플랫폼 |
