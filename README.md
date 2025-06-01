@@ -15,15 +15,6 @@
         <a href="https://git.io/typing-svg"><img src="https://zrr.kr/V9xC" alt="Typing SVG" /></a>
 </div>
 
-<p align="center"
-        <a href="https://github.com/dongx0915" target="_blank">
-                <img src="https://zrr.kr/JkGr" alt=github/>
-        </a>
-        <a href="https://github.com/dongx0915" target="_blank">
-                <img src="https://zrr.kr/wjLwc" alt=linkedin/>
-        </a>
- </p>
-
 <br>
 
 
