@@ -11,10 +11,6 @@
         
 </h1>
 
-<div align="center" style="display:flex">
-        <a href="https://git.io/typing-svg"><img src="https://zrr.kr/V9xC" alt="Typing SVG" /></a>
-</div>
-
 <br>
 
 
