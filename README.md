@@ -29,7 +29,7 @@
 | :---: | :---: | :---: |
 | <img width="75" src="https://github.com/user-attachments/assets/dc4f8b57-30e3-41a0-bb3f-14a5e3cb09a9"> | <img width="75" src="https://github.com/user-attachments/assets/77ad05bc-98f2-4a8e-8864-f15cc319c142"> | <img width="75" src="https://github.com/user-attachments/assets/6a93bfd0-e923-4475-a7fd-0f0687507717"> |
 |⠀스마트 주걱턱 교정 장치 <br>& 교정 관리 시스템  | 실습실 예약 시스템 | 백준 자동 푸시 익스텐션 |
-| `23.01.01 ~ 23.01.08` | `22.07.01 ~ 22.12.30` |`22.03.15 ~ 22.06.12`|
+| `22.07.05 ~ 23.03.06` | `22.07.01 ~ 22.12.30` |`22.03.15 ~ 22.06.12`|
 
 </div>
 
