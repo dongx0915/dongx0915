@@ -22,7 +22,7 @@
 |   [DongLab](https://github.com/DongLab-DevTools)   |   [WePLi](https://github.com/dongx0915/WePLi-Android)   | [Runnect](https://github.com/Runnect/Runnect-Android) |
 | :---: | :---: | :---: |
 | <img width="75" alt="image" src="https://github.com/user-attachments/assets/03941a0d-e661-4084-8648-606a888c13b7" /> | <img width="75" src="https://github.com/user-attachments/assets/98b85a2b-4c10-4be0-8872-e6933a809297"> | <img width="75" src="https://github.com/user-attachments/assets/3e1151ca-c342-4f47-8d1f-8b5f394f2873"> |
-| 직접 만든 개발 편의 기능을<br>모아둔 저장소 | 플레이리스트 공유 플랫폼 | 데일리 러닝 앱, <br>러넥트(Runnect) |
+| 직접 만든 개발 편의 <br>기능을 모아둔 저장소 | 플레이리스트 공유 플랫폼 | 데일리 러닝 앱, <br>러넥트(Runnect) |
 | ⠀⠀⠀`25.09.06 ~ `⠀⠀⠀| ⠀⠀⠀`24.05.16 ~ `⠀⠀⠀| `23.11.28 ~ 24.07.10` |
 
 | [Smiley](https://github.com/DEU-Smiley/Smiley-Android-App) | [ToothFairy](https://github.com/DEU-ToothFairy/ToothFairy_Client)  |  [Lab](https://github.com/DEU-Lab-Reservation-System/LAB-Android-App?tab=readme-ov-file)|
